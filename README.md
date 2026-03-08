@@ -2,14 +2,28 @@
 
 A machine learning project that predicts passenger survival on the Titanic using a **Logistic Regression** classifier.
 
-## 📁 Project Structure
+## � Repository
+<a href="https://github.com/dhanush7842-developer/Titanic-Survival-Prediction-using-LogisticRegression-.git" target="_blank">GitHub ↗</a>
+
+## �📁 Project Structure
 
 ```
 Titanic Survival Prediction/
 ├── Titanic Dataset.csv        # Raw dataset
 ├── LogisticRegression.ipynb   # Main notebook
+├── titanic-showcase.html     # Interactive visual showcase
 └── README.md
 ```
+
+## 🌟 Interactive Showcase
+
+This project includes a premium **Interactive Showcase** (`titanic-showcase.html`) that provides:
+- **Real-time Metrics**: Visual representation of model accuracy and passenger data.
+- **Detailed Insights**: Exploratory data analysis with dynamic charts.
+- **Presenter Script**: A guiding narrative for demonstrating the project's findings.
+
+> [!TIP]
+> To view the showcase, simply open `titanic-showcase.html` in any modern web browser.
 
 ## 📊 Dataset
 
